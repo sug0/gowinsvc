@@ -2,7 +2,6 @@
 package gowinsvc
 
 import (
-	"C"
 	"fmt"
 	"os"
 	"sync"
